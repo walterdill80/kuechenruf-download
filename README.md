@@ -30,6 +30,14 @@ dort `Kuechenruf-<version>-Windows.zip` herunterladen.
 
 Küchenruf startet danach mit Windows von selbst. Einstellungen: Küchenruf-Symbol unten rechts neben der Uhr.
 
+## Nutzungsbedingungen und Haftung
+
+Küchenruf ist kostenlos und darf unverändert und kostenlos weitergegeben werden. Es wird ohne Gewähr
+überlassen: Der Anbieter haftet nur für Vorsatz und grobe Fahrlässigkeit (die gesetzliche Haftung für
+Leben, Körper, Gesundheit und nach dem Produkthaftungsgesetz bleibt). Küchenruf sammelt keine Daten;
+für Download und Updates ruft es Dateien bei GitHub ab. Alles Weitere:
+**[Nutzungsbedingungen](NUTZUNGSBEDINGUNGEN.md)**.
+
 ## Von
 
 Küchenruf ist ein Programm von **[JumpX OS](https://jumpx-os.de)**.
